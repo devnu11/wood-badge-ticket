@@ -31,7 +31,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | --- | --- |
 | **Specific** | What: Complete Level 1 myself, and encourage others to attend with me.<br>Why: Certified instructors make sailing at AYC safer and more credible, and let us teach to a recognized standard.<br>Who: Me, a US Sailing instructor trainer, adults and eligible youth from other area ships.<br>Where: Austin Yacht Club or nearest host venue.<br>Which: Course fees, prerequisites (verify current US Sailing requirements), and open seats at the course we attend. |
 | **Measurable** | I am certified. At least 2 adults/youth from other area ships invited to join me at the Level 1 course. Done when certificates are issued. |
-| **Attainable** | Roadblocks: cost, scheduling a trainer, enrollment minimums. Overcome by seeking unit/council or yacht club funding and partnering with nearby units to fill seats. Potentially need to travel. |
+| **Attainable** | Roadblocks: cost; potentially need to travel. Overcome by seeking unit/council or yacht club funding. |
 | **Relevant** | Raises the skill level of the adults who teach our youth; supports a sustainable sailing program (Goal #4). |
 | **Timely** | Today: check US Sailing course calendar and prerequisites. 12 weeks: register. 5 months: certified. Course attended with invited area-ship members by summer 2027. |
 | **Diversity** | Yes — opening the course to other units and youth broadens who can lead on the water. |
@@ -63,7 +63,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | **Measurable** | 8–10 sessions in summer 2027. Roster of 3 qualified adults sharing sessions evenly. Written run-book (launch, safety, recovery). Youth leaders run every session; adults provide safety and two-deep coverage. Done when the summer completes with me leading no more than a third of sessions. |
 | **Attainable** | Roadblocks: adult availability, Texas heat, lake levels, boat maintenance. Level 1 Sailing Instructor present. Overcome with a shared calendar, early/evening start times, a lake-level backup plan, and a maintenance rotation. |
 | **Relevant** | Gives youth consistent time on the water. Builds the system so I can step back, supporting my Skipper handoff. |
-| **Timely** | Today: list candidate adults. 12 weeks: draft run-book and recruit roster. 5 months: AYC dates confirmed, adults trained. Program runs Jun–Aug 2027. |
+| **Timely** | Today: list candidate adults. 8 weeks: draft run-book and recruit roster. 5 months: AYC dates confirmed, adults trained. Program runs Jun–Aug 2027. |
 | **Diversity** | Yes — open to new and visiting Scouts, regardless of sailing experience. |
 | **Membership growth/retention** | Yes — a regular, visible activity draws and keeps members. |
 | **Line of sight to youth** | Yes — youth sail and lead every session. |
