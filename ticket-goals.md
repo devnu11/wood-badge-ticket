@@ -1,6 +1,6 @@
-# Wood Badge Ticket Goals - D
+# Wood Badge Ticket Goals
 
-Oct 24, 2026 Â· @D
+Oct 24, 2026
 
 ## Vision
 
@@ -14,7 +14,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 â
 
 |  |  |
 | --- | --- |
-| **Specific** | What: Teach IOWLS as lead instructor.<br>Why: Few local instructors exist; more trained youth leaders make ships run themselves.<br>Who: Me, the Academy course director, co-instructors, Sea Scout and adult participants.<br>Where: Sea Scout Academy, Lost Pines Scout Reservation.<br>Which: Must meet the Academy's instructor requirements and use the current national syllabus. |
+| **Specific** | What: Teach IOWLS as lead instructor.<br>Why: Few local instructors exist; more trained youth leaders make ships run themselves.<br>Who: Me, the Academy course director, co-instructors, Sea Scout and adult participants.<br>Where: Sea Scout Academy, Lost Pines Scout Reservation.<br>How: Must meet the Academy's instructor requirements and use the current national syllabus. |
 | **Measurable** | Teach 1 full IOWLS course as lead instructor, regardless of class size. Collect course evaluations. Done when the course director confirms completion roster. |
 | **Attainable** | Seabadge complete and active Skipper. Roadblocks: staff slots full, date conflicts. Overcome by contacting the course director by \[Dec 2026\] and volunteering as lead instructor. |
 | **Relevant** | Directly delivers advanced training to youth. Builds toward my plan to teach on-the-water leadership after handing off Skipper. |
