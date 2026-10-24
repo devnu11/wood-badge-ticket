@@ -18,7 +18,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 â
 | **Measurable** | Teach IOWLS course as lead instructor. Collect course evaluations. Done when the course director confirms completion roster.  Believe minimum class size is 6. |
 | **Attainable** | Seabadge complete and active Skipper. Roadblocks: staff slots full, date conflicts. Overcome by contacting the course director by Dec 2026 and volunteering as lead instructor. |
 | **Relevant** | Provides training to new Sea Scout leaders . Builds toward my plan to teach on-the-water leadership after handing off Skipper. |
-| **Timely** | Today: email course director. 12 weeks: confirm staff role, review syllabus. 5 months: prep complete. Teach at the 2027 SS Academy; ticket item done by May. |
+| **Timely** | Today: email course director. 12 weeks: confirm staff role, review syllabus. 5 months: prep complete. Teach at the 2027 SS Academy; ticket item done by May 2027. |
 | **Diversity** | Yes â€” open to all regional units, including ships without trained leaders, and local access to leaders |
 | **Membership growth/retention** | Yes â€” trained leaders run better programs, which retains members. |
 | **Line of sight to youth** | Yes â€” training direct contact leaders. |
@@ -44,7 +44,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 â
 
 | | |
 | --- | --- |
-| **Specific** | What: Produce a complete course plan (date, venue, staff, vessels, syllabus, budget, registration).<br>Why: There is no local advanced follow-on for IOWLS graduates.<br>Who: Me as course planner, a staff of 3 qualified adults including me, council Sea Scout leadership (possibly national).<br>Where: Austin Yacht Club or other venue (TBD).<br>Which: National syllabus, council approval, vessel and chase-boat availability, YPT and safety requirements. |
+| **Specific** | What: Produce a complete course plan (date, venue, staff, vessels, syllabus, budget, registration).<br>Why: There is no local advanced follow-on for IOWLS graduates.<br>Who: Me as course planner, a staff of 2 qualified adults including me, council Sea Scout leadership (possibly national).<br>Where: Austin Yacht Club or other venue (TBD).<br>Which: National syllabus, council approval, vessel and chase-boat availability, YPT and safety requirements. |
 | **Measurable** | Course plan approved by council (and national if required); staff of 2 committed; date and venue booked; registration open with 6 seats. Done when registration opens. |
 | **Attainable** | Roadblocks: qualified staff, boat availability, approval timelines. Overcome by recruiting staff from IOWLS/Academy contacts (Goal #1) and booking  dates early. |
 | **Relevant** | Fills the gap between basic and advanced youth leadership training â€” the core of my vision. |
@@ -85,7 +85,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 â
 
 ## Ticket Goal #6 â€” Wood Badge Jamboree at Lost Pines
 
-**Statement:** Host a short-term camp at Lost Pines with climbing, shooting, and swimming for Scouts from small and new units, so their leaders can attend Wood Badge without their units missing a campout in prime camping reason.  When Julia attended wood badge she skipped the campout on the middle week. The only campout she missed during her tenure prior to injury
+**Statement:** Host a short-term camp at Lost Pines with climbing, shooting, and swimming for Scouts from small and new units, so their leaders can attend Wood Badge without their units missing a campout in prime camping season.  When Julia attended wood badge she skipped the campout on the middle week. The only campout she missed during her tenure prior to injury
 
 | | |
 | --- | --- |
