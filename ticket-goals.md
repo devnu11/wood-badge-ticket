@@ -85,7 +85,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 â
 
 ## Ticket Goal #6 â€” Wood Badge Jamboree at Lost Pines
 
-**Statement:** Host a short-term camp at Lost Pines with climbing, shooting, and swimming for Scouts from small and new units, so their leaders can attend Wood Badge without their units missing a campout in prime camping season. When Julia attended Wood Badge she skipped the campout on the middle week. The only campout she missed during her tenure prior to injury.
+**Statement:** Host a short-term camp at Lost Pines with climbing, shooting, and swimming for Scouts from small and new units, so their leaders can attend Wood Badge without their units missing a campout in prime camping season. When Julia attended Wood Badge, she missed the unit campout between course weekends, the only one she missed in her tenure. If a leader that committed has to miss a campout to attend, leaders in small units, who have no backup, often skip Wood Badge entirely; this camp removes that trade-off.
 
 | | |
 | --- | --- |
