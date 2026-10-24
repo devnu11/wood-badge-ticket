@@ -29,7 +29,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 â
 
 | | |
 | --- | --- |
-| **Specific** | What: Complete Level 1 myself, and encourage others to attend with me.<br>Why: Certified instructors make sailing at AYC safer and more credible, and let us teach to a recognized standard.<br>Who: Me, a US Sailing instructor trainer, adults and eligible youth from other area ships.<br>Where: Austin Yacht Club or nearest host venue.<br>Which: Course fees, prerequisites (verify current US Sailing requirements), and minimum enrollment for a hosted course. |
+| **Specific** | What: Complete Level 1 myself, and encourage others to attend with me.<br>Why: Certified instructors make sailing at AYC safer and more credible, and let us teach to a recognized standard.<br>Who: Me, a US Sailing instructor trainer, adults and eligible youth from other area ships.<br>Where: Austin Yacht Club or nearest host venue.<br>Which: Course fees, prerequisites (verify current US Sailing requirements), and open seats at the course we attend. |
 | **Measurable** | I am certified. At least 2 adults/youth from other area ships invited to join me at the Level 1 course. Done when certificates are issued. |
 | **Attainable** | Roadblocks: cost, scheduling a trainer, enrollment minimums. Overcome by seeking unit/council or yacht club funding and partnering with nearby units to fill seats. Potentially need to travel. |
 | **Relevant** | Raises the skill level of the adults who teach our youth; supports a sustainable sailing program (Goal #4). |
