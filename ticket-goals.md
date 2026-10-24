@@ -33,7 +33,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | **Measurable** | I am certified. At least 2 adults/youth from other area ships invited to join me at the Level 1 course. Done when certificates are issued. |
 | **Attainable** | Roadblocks: cost, scheduling a trainer, enrollment minimums. Overcome by seeking unit/council or yacht club funding and partnering with nearby units to fill seats. Potentially need to travel. |
 | **Relevant** | Raises the skill level of the adults who teach our youth; supports a sustainable sailing program (Goal #4). |
-| **Timely** | Today: check US Sailing course calendar and prerequisites. 12 weeks: register. 5 months: certified. Hosted course for area ships by [early 2028]. |
+| **Timely** | Today: check US Sailing course calendar and prerequisites. 12 weeks: register. 5 months: certified. Course attended with invited area-ship members by summer 2027. |
 | **Diversity** | Yes — opening the course to other units and youth broadens who can lead on the water. |
 | **Membership growth/retention** | Yes — certified instruction attracts and keeps sailing-focused youth. |
 | **Line of sight to youth** | Yes — youth are taught by certified instructors; eligible older youth can certify. |
@@ -48,7 +48,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | **Measurable** | Course plan approved by council (and national if required); staff of 2 committed; date and venue booked; registration open with 6 seats. Done when registration opens. |
 | **Attainable** | Roadblocks: qualified staff, boat availability, approval timelines. Overcome by recruiting staff from IOWLS/Academy contacts (Goal #1) and booking dates early. |
 | **Relevant** | Fills the gap between basic and advanced youth leadership training — the core of my vision. |
-| **Timely** | Today: confirm whether AOWLS needs national approval beyond council. 12 weeks: draft plan and staff list. 5 months: approval and venue booked. Registration open by [Feb 2028]. |
+| **Timely** | Today: confirm whether AOWLS needs national approval beyond council. 12 weeks: draft plan and staff list. 5 months: approval and venue booked. Registration open by Dec 2027. |
 | **Diversity** | Yes — open to youth from all ships in the area. |
 | **Membership growth/retention** | Yes — advanced training gives older Sea Scouts a reason to stay. |
 | **Line of sight to youth** | Yes — youth are the participants. |
@@ -78,7 +78,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | **Measurable** | One course held; at least 2 participants certified from each unit (4 minimum). Done when certifications are issued. |
 | **Attainable** | Roadblocks: cost, finding a weekend, minimum enrollment. Overcome by splitting cost across units, using unit funds or fundraising, and filling seats from other district units. |
 | **Relevant** | Improves safety for every outing in both units; also supports Goal #4 and Goal #6. |
-| **Timely** | Today: get quotes from [2] providers. 12 weeks: date set with both unit committees. 5 months: course held by [spring 2027]. |
+| **Timely** | Today: trainers already signed up. 12 weeks: date set with both unit committees. Course held by summer 2027. |
 | **Diversity** | Yes — open to both units and open seats offered to other district units. |
 | **Membership growth/retention** | Possibly — safer, better-run outings support retention. |
 | **Line of sight to youth** | Yes — protects youth on every outing; older youth can certify. |
