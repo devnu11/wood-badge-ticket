@@ -16,8 +16,8 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | --- | --- |
 | **Specific** | What: Teach IOWLS as lead instructor.<br>Why: Few local instructors exist; more trained youth leaders make ships run themselves.<br>Who: Me, the Academy course director, co-instructors, Sea Scout and adult participants.<br>Where: Sea Scout Academy, Lost Pines Scout Reservation.<br>How: Must meet the Academy's instructor requirements and use the current national syllabus. |
 | **Measurable** | Teach IOWLS course as lead instructor. Collect course evaluations. Done when the course director confirms completion roster. Believe minimum class size is 6. |
-| **Attainable** | Seabadge complete and active Skipper. Roadblocks: staff slots full, date conflicts. Overcome by contacting the course director by Dec 2026 and volunteering as lead instructor. |
-| **Relevant** | Provides training to new Sea Scout leaders. Builds toward my plan to teach on-the-water leadership after handing off Skipper. |
+| **Attainable** | Seabadge complete and active Skipper. Roadblocks: date conflicts. Overcome by contacting the course director by Dec 2026 and volunteering as lead instructor. |
+| **Relevant** | Provides training to new Sea Scout leaders. Builds toward my plan to teach on-the-water leadership, and building program continuity . |
 | **Timely** | Today: email course director. 12 weeks: confirm staff role, review syllabus. 5 months: prep complete. Teach at the 2027 SS Academy; ticket item done by May 2027. |
 | **Diversity** | Yes — open to all regional units, including ships without trained leaders, and local access to leaders. |
 | **Membership growth/retention** | Yes — trained leaders run better programs, which retains members. |
@@ -33,7 +33,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | **Measurable** | I am certified. At least 2 adults/youth from other area ships invited to join me at the Level 1 course. Done when certificates are issued. |
 | **Attainable** | Roadblocks: cost; potentially need to travel. Overcome by seeking unit/council or yacht club funding. |
 | **Relevant** | Raises the skill level of the adults who teach our youth; supports a sustainable sailing program (Goal #4). |
-| **Timely** | Today: check US Sailing course calendar and prerequisites. 12 weeks: register. 5 months: certified. Course attended with invited area-ship members by summer 2027. |
+| **Timely** | Today: check US Sailing course calendar and prerequisites. 12 weeks. Course attended with invited area-ship members by summer 2027. |
 | **Diversity** | Yes — opening the course to other units and youth broadens who can lead on the water. |
 | **Membership growth/retention** | Yes — certified instruction attracts and keeps sailing-focused youth. |
 | **Line of sight to youth** | Yes — youth are taught by certified instructors; eligible older youth can certify. |
@@ -46,12 +46,12 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | --- | --- |
 | **Specific** | What: Produce a complete course plan (date, venue, staff, vessels, syllabus, budget, registration).<br>Why: There is no local advanced follow-on for IOWLS graduates.<br>Who: Me as course planner, a staff of 2 qualified adults including me, council Sea Scout leadership (possibly national).<br>Where: Austin Yacht Club or other venue (TBD).<br>Which: National syllabus, council approval, vessel and chase-boat availability, YPT and safety requirements. |
 | **Measurable** | Course plan approved by council (and national if required); staff of 2 committed; date and venue booked; registration open with 6 seats. Done when registration opens. |
-| **Attainable** | Roadblocks: qualified staff, boat availability, approval timelines. Overcome by recruiting staff from IOWLS/Academy contacts (Goal #1) and booking dates early. |
+| **Attainable** | Roadblocks: qualified staff, boat availability, approval timelines. Overcome by recruiting staff/attendees from IOWLS/Academy contacts (Goal #1) and booking dates early. |
 | **Relevant** | Fills the gap between basic and advanced youth leadership training — the core of my vision. |
 | **Timely** | Today: confirm whether AOWLS needs national approval beyond council. 12 weeks: draft plan and staff list. 5 months: approval and venue booked. Registration open by Dec 2027. |
-| **Diversity** | Yes — open to youth from all ships in the area. |
-| **Membership growth/retention** | Yes — advanced training gives older Sea Scouts a reason to stay. |
-| **Line of sight to youth** | Yes — youth are the participants. |
+| **Diversity** | Yes — open to youth from all ships in Texas. |
+| **Membership growth/retention** | Yes — advanced training for leaders gives bigger adventures which gives older Sea Scouts a reason to stay. |
+| **Line of sight to youth** | Yes — training for their program leaders |
 
 ## Ticket Goal #4 — Sustainable Weekly Summer Sailing at AYC
 
@@ -59,7 +59,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 
 | | |
 | --- | --- |
-| **Specific** | What: Weekly sail nights every summer week, run by a rotating adult roster and youth leaders.<br>Why: Regular time on the water builds skills and keeps Scouts engaged; one-person programs burn out.<br>Who: Ship 4 youth, 3 rostered adults, youth boatswain/mates, AYC.<br>Where: Austin Yacht Club.<br>Which: AYC dock/vessel rules, two-deep leadership, qualified skippers, safety boat coverage. |
+| **Specific** | What: Weekly sailing every summer week, run by a rotating adult roster and youth leaders.<br>Why: Regular time on the water builds skills and keeps Scouts engaged; one-person programs burn out.<br>Who: Ship 4 youth, 3 rostered adults, youth boatswain/mates, AYC.<br>Where: Austin Yacht Club.<br>Which: AYC dock/vessel rules, two-deep leadership, qualified skippers, safety boat coverage. |
 | **Measurable** | 8–10 sessions in summer 2027. Roster of 3 qualified adults sharing sessions evenly. Written run-book (launch, safety, recovery). Youth leaders run every session; adults provide safety and two-deep coverage. Done when the summer completes with me leading no more than a third of sessions. |
 | **Attainable** | Roadblocks: adult availability, Texas heat, lake levels, boat maintenance. Level 1 Sailing Instructor present. Overcome with a shared calendar, early/evening start times, a lake-level backup plan, and a maintenance rotation. |
 | **Relevant** | Gives youth consistent time on the water. Builds the system so I can step back, supporting my Skipper handoff. |
@@ -74,11 +74,11 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 
 | | |
 | --- | --- |
-| **Specific** | What: Host a WFA course (standard ~16 hours).<br>Why: Remote and on-water activities need trained first responders; high-adventure trips require WFA.<br>Who: Ship 4 and Troop 4 adults and eligible youth, a certified WFA provider.<br>Where: TBD.<br>Which: Provider cost, minimum class size, age requirements, current CPR. |
+| **Specific** | What: Host a WFA course (standard ~16 hours).<br>Why: Remote and on-water activities need trained first responders; high-adventure trips require WFA.<br>Who: Ship 4 and Troop 4 adults and eligible youth, a certified WFA provider.<br>Where: TBD.<br>Which: 30 participants, age requirements, current CPR. |
 | **Measurable** | One course held; at least 2 participants certified from each unit (4 minimum). Done when certifications are issued. |
-| **Attainable** | Roadblocks: cost, finding a weekend, minimum enrollment. Overcome by splitting cost across units, using unit funds or fundraising, and filling seats from other district units. |
+| **Attainable** | Roadblocks: cost, finding a weekend, minimum enrollment. Filling seats from other district units. |
 | **Relevant** | Improves safety for every outing in both units; also supports Goal #4 and Goal #6. |
-| **Timely** | Today: trainers already signed up. 12 weeks: date set with both unit committees. Course held by summer 2027. |
+| **Timely** | Today: trainer already signed up. 12 weeks: date set with both unit committees. Course held by summer 2027. |
 | **Diversity** | Yes — open to both units and open seats offered to other district units. |
 | **Membership growth/retention** | Possibly — safer, better-run outings support retention. |
 | **Line of sight to youth** | Yes — protects youth on every outing; older youth can certify. |
@@ -89,8 +89,8 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 
 | | |
 | --- | --- |
-| **Specific** | What: A staffed weekend camp running during the second weekend of a Wood Badge course.<br>Why: Small/new units can't spare their only leaders for two weekends, so those leaders skip Wood Badge.<br>Who: Me as climbing director. Timmie as camp director, certified range/climbing/aquatics staff recruited through my contacts, volunteer adults, Scouts from small units; their leaders transport Scouts in and out.<br>Where: Lost Pines Scout Reservation.<br>Which: Council short-term camp approval, certified RSO, climbing director, and aquatics supervision, two-deep leadership/YPT, site reservation, fees. |
-| **Measurable** | One camp held; 1–3 units and 10+ Scouts attend; at least 1 leader attends Wood Badge because of it. Done when the camp runs and attendance is reported to the course director. |
+| **Specific** | What: A staffed weekend camp running during the second weekend of a Wood Badge course.<br>Why: Small/new units can't spare their only leaders for two weekends, so those leaders skip Wood Badge.<br>Who: Me as climbing instructor . Timmie as camp director and second tower instructor, certified range/aquatics staff recruited through my contacts, volunteer adults, Scouts from small units; their leaders transport Scouts in and out.<br>Where: Lost Pines Scout Reservation.<br>Which: Council short-term camp approval, certified RSO, climbing instructors, lifeguard and aquatics supervision, two-deep leadership/YPT, site reservation, fees. |
+| **Measurable** | One camp held; 1–3 units attend; at least 1 leader attends Wood Badge because of it. Done when the camp runs and attendance is reported to the course director. |
 | **Attainable** | Roadblocks: certified program staff, council approval, liability, cost. Overcome by recruiting certified staff through my personal network, partnering with the council camping committee early, and setting a fee that covers program cost. |
 | **Relevant** | Removes a barrier to adult training in small units — trained leaders deliver better programs. |
 | **Timely** | Today: confirm next Wood Badge course dates and Lost Pines availability. 12 weeks: council approval path and staff recruiting. 5 months: site booked, staff committed, registration open. Camp runs on the second weekend of the 2027 course. |
