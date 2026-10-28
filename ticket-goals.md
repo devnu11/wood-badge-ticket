@@ -38,22 +38,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | **Membership growth/retention** | Yes — certified instruction attracts and keeps sailing-focused youth. |
 | **Line of sight to youth** | Yes — youth are taught by certified instructors; eligible older youth can certify. |
 
-## Ticket Goal #3 — Plan AOWLS
-
-**Statement:** Plan and schedule an AOWLS course so adult leaders who completed IOWLS have a next step in on-the-water leadership training.
-
-| | |
-| --- | --- |
-| **Specific** | What: Produce a complete course plan (date, venue, staff, vessels, syllabus, budget, registration).<br>Why: There is no local advanced follow-on for IOWLS graduates.<br>Who: Me as course planner, a staff of 2 qualified adults including me, council Sea Scout leadership (possibly national).<br>Where: Austin Yacht Club or other venue (TBD).<br>Which: National syllabus, council approval, vessel and chase-boat availability, YPT and safety requirements. |
-| **Measurable** | Course plan approved by council (and national if required); staff of 2 committed; date and venue booked; registration open with 6 seats. Done when registration opens. |
-| **Attainable** | Roadblocks: qualified staff, boat availability, approval timelines. Overcome by recruiting staff/attendees from IOWLS/Academy contacts (Goal #1) and booking dates early. |
-| **Relevant** | Fills the gap between basic and advanced leader training — the core of my vision. |
-| **Timely** | Today: confirm whether AOWLS needs national approval beyond council. 12 weeks: draft plan and staff list. 5 months: approval and venue booked. Registration open by Dec 2027. |
-| **Diversity** | Yes — open to adult leaders from all ships in Texas. |
-| **Membership growth/retention** | Yes — leader training enables bigger adventures, which give older Sea Scouts a reason to stay. |
-| **Line of sight to youth** | Yes — training for their program leaders. |
-
-## Ticket Goal #4 — Sustainable Weekly Summer Sailing at AYC
+## Ticket Goal #3 — Sustainable Weekly Summer Sailing at AYC
 
 **Statement:** Run a weekly summer sailing program at Austin Yacht Club that keeps running without depending on me.
 
@@ -68,7 +53,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | **Membership growth/retention** | Yes — a regular, visible activity draws and keeps members. |
 | **Line of sight to youth** | Yes — youth sail and lead every session. |
 
-## Ticket Goal #5 — Wilderness First Aid for Ship 4 and Troop 4
+## Ticket Goal #4 — Wilderness First Aid for Ship 4 and Troop 4
 
 **Statement:** Bring a Wilderness First Aid course to Ship 4 and Troop 4 so both units have WFA-certified adults and older youth for outings.
 
@@ -83,7 +68,7 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | **Membership growth/retention** | Possibly — safer, better-run outings support retention. |
 | **Line of sight to youth** | Yes — protects youth on every outing; older youth can certify. |
 
-## Ticket Goal #6 — Wood Badge Jamboree at Lost Pines
+## Ticket Goal #5 — Wood Badge Jamboree at Lost Pines
 
 **Statement:** Host a short-term camp at Lost Pines with climbing, shooting, and swimming for Scouts from small and new units, so their leaders can attend Wood Badge without their units missing a campout in prime camping season. When Julia attended Wood Badge, she missed the unit campout between course weekends, the only one she missed in her tenure. If a leader that committed has to miss a campout to attend, leaders in small units, who have no backup, often skip Wood Badge entirely; this camp removes that trade-off.
 
@@ -97,3 +82,19 @@ All goals target completion inside the 18-month ticket window (course Oct 2026 �
 | **Diversity** | Yes — reaches small and new units that are usually underserved. |
 | **Membership growth/retention** | Yes — trained leaders retain youth; new units stabilize. |
 | **Line of sight to youth** | Yes — youth get a program weekend; their leaders return trained. |
+
+## Ticket Goal #5 Alternative — Plan AOWLS
+
+**Statement:** Plan and schedule an AOWLS course so adult leaders who completed IOWLS have a next step in on-the-water leadership training.
+
+| | |
+| --- | --- |
+| **Specific** | What: Produce a complete course plan (date, venue, staff, vessels, syllabus, budget, registration).<br>Why: There is no local advanced follow-on for IOWLS graduates.<br>Who: Me as course planner, a staff of 2 qualified adults including me, council Sea Scout leadership (possibly national).<br>Where: Austin Yacht Club or other venue (TBD).<br>Which: National syllabus, council approval, vessel and chase-boat availability, YPT and safety requirements. |
+| **Measurable** | Course plan approved by council (and national if required); staff of 2 committed; date and venue booked; registration open with 6 seats. Done when registration opens. |
+| **Attainable** | Roadblocks: qualified staff, boat availability, approval timelines. Overcome by recruiting staff/attendees from IOWLS/Academy contacts (Goal #1) and booking dates early. |
+| **Relevant** | Fills the gap between basic and advanced leader training — the core of my vision. |
+| **Timely** | Today: confirm whether AOWLS needs national approval beyond council. 12 weeks: draft plan and staff list. 5 months: approval and venue booked. Registration open by Dec 2027. |
+| **Diversity** | Yes — open to adult leaders from all ships in Texas. |
+| **Membership growth/retention** | Yes — leader training enables bigger adventures, which give older Sea Scouts a reason to stay. |
+| **Line of sight to youth** | Yes — training for their program leaders. |
+
