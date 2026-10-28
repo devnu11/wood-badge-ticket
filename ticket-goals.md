@@ -56,6 +56,9 @@ _Bring advanced training opportunities to Scouts and Scouters._
 
 *  **Statement:** Earn US Sailing Level 1 Small Boat Instructor certification and make the course available to other Sea Scout ships in the area.
 
+    ![Sailing instructor watching students rig a sloop at the dock](images/goal2-level1.jpg)
+    _Photo: Scott A. Thornbloom, U.S. Navy, public domain, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Retired_U.S._Navy_Cmdr._Dennis_Ringle,_foreground,_a_sailing_instructor,_observes_Navy_junior_ROTC_cadets_making_preparations_for_getting_under_way_during_sail_training_at_Naval_Station_Newport,_R.I.,_July_12_120712-N-IK959-105.jpg)_
+
     ### Specific
 
     >| | |
@@ -184,6 +187,8 @@ _Bring advanced training opportunities to Scouts and Scouters._
 
 *  **Statement:** Host a short-term camp at Lost Pines with climbing, shooting, and swimming for Scouts from small and new units, so their leaders can attend Wood Badge without their units missing a campout in prime camping season. When Julia attended Wood Badge, she missed the unit campout between course weekends, the only one she missed in her tenure. If a leader that committed has to miss a campout to attend, leaders in small units, who have no backup, often skip Wood Badge entirely; this camp removes that trade-off.
 
+    ![Scouts on Lost Pines' Dok's tower](images/doks-tower.jpg)
+
     ### Specific
 
     >| | |
@@ -234,6 +239,9 @@ _Bring advanced training opportunities to Scouts and Scouters._
 ## Ticket Goal #5 Alternative — Plan AOWLS
 
 *  **Statement:** Plan and schedule an AOWLS course so adult leaders who completed IOWLS have a next step in on-the-water leadership training.
+
+    ![Sea Scouts vessel Argo under way in Seattle](images/goal5alt-aowls.jpg)
+    _Photo: Joe Mabel, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seattle_-_2018_Fishermen%27s_Fall_Festival_-_45_-_Sea_Scouts_ship_%27Argo%27_sailing_out.jpg)_
 
     ### Specific
 
