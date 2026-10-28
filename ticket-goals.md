@@ -19,13 +19,13 @@ _Bring advanced training opportunities to Scouts and Scouters._
     >| Why | Few local instructors exist; more trained adult leaders make ships run themselves. |
     >| Who | Me, the Academy course director, co-instructors, adult participants |
     >| Where | Sea Scout Academy, Lost Pines Scout Reservation |
-    >| How | Must meet the Academy's instructor requirements and use the current national syllabus. |
+    >| How | Must meet the Academy's instructor requirements and use the current national syllabus |
 
     ### Measurable
     * Teach IOWLS course as lead instructor. 
     * Collect course evaluations. 
-    * Done when the Sea Scout Academy confirms roster completion record. 
-    * Believe minimum class size is 6.
+    * Done when the Sea Scout Academy confirms roster completion record 
+    * Believe minimum class size is 6
 
     ### Attainable
     * Seabadge complete and active Skipper 
@@ -33,8 +33,8 @@ _Bring advanced training opportunities to Scouts and Scouters._
         * Overcome by contacting the course director by Dec 2026 and volunteering as lead instructor.
 
     ### Relevant
-    * Provides training to new Sea Scout leaders. 
-    * Builds toward my plan to teach on-the-water leadership and builds program continuity.
+    * Provides training to new Sea Scout leaders 
+    * Builds toward my plan to teach on-the-water leadership and builds program continuity
 
     ### Timely
     * Today: email course director. 
@@ -71,7 +71,7 @@ _Bring advanced training opportunities to Scouts and Scouters._
         * Overcome by attending AYC hosted course.
 
     ### Relevant
-    * Raises the skill level of the adults who teach our youth; supports a sustainable sailing program (Goal #3).
+    * Raises the skill level of the adults who teach our youth; supports a sustainable sailing program (Goal #3)
 
     ### Timely
     * Today: check US Sailing course calendar and prerequisites; done in 12 weeks.
@@ -102,7 +102,7 @@ _Bring advanced training opportunities to Scouts and Scouters._
     * Roster of 3 qualified adults sharing sessions
     * Written run-book (launch, safety, recovery)
     * Youth leaders run every session; adults provide safety and two-deep coverage.
-    * Done when the summer completes, and I'm not running every session.
+    * Done when the summer completes, and I'm not running every session
 
     ### Attainable
     * Level 1 Sailing Instructor present
@@ -110,8 +110,8 @@ _Bring advanced training opportunities to Scouts and Scouters._
         * Overcome with a shared calendar, early/evening start times, a lake-level backup plan, and a maintenance rotation.
 
     ### Relevant
-    * Gives youth consistent time on the water.
-    * Builds the system so I can step back, supporting my Skipper handoff.
+    * Gives youth consistent time on the water
+    * Builds the system so I can step back, supporting my Skipper handoff
 
     ### Timely
     * Today: list candidate adults.
@@ -141,19 +141,19 @@ _Bring advanced training opportunities to Scouts and Scouters._
 
     ### Measurable
     * One course held; at least 2 participants certified from each unit (4 minimum)
-    * Done when certifications are issued.
+    * Done when certifications are issued
 
     ### Attainable
     * Roadblocks: venue, finding an open day, minimum enrollment
-    * Overcome by:
-        * Participants pay their own fee; Crew 4443 runs the course as a fundraiser once we recruit enough participants.
-        * Fill seats from other district units.
+    * Overcome by
+        * having participants pay their own fee, so Crew 4443 can run the course as a fundraiser once we recruit enough participants;
+        * filling seats from other district units.
 
     ### Relevant
-    * Improves safety for every outing in both units; also supports Goal #3 and Goal #5.
+    * Improves safety for every outing in both units; also supports Goal #3 and Goal #5
 
     ### Timely
-    * Today: trainer (Nate) already signed up.
+    * Today: trainer (Nate) already signed up
     * 12 weeks: date set with both unit committees
     * Course held by summer 2027
 
@@ -179,19 +179,19 @@ _Bring advanced training opportunities to Scouts and Scouters._
 
     ### Measurable
     * One camp held; 1–3 units attend; at least 1 leader attends Wood Badge because of it.
-    * Done when the camp runs and attendance is reported to the course director.
+    * Done when the camp runs and attendance is reported to the course director
+    * Stretch goal: open the COPE course
 
     ### Attainable
     * Roadblocks: certified program staff, council approval, liability, cost
-    * Overcome by:
-        * Recruiting certified staff through my personal network
-        * Short-Term camp administrator (Timmie) already signed up.
-        * Two Level 2 Tower instructors signed up (Timmie & I).
-        * Sign up an RSO and a Rifle Instructor (Plan to ask Olga and Jen Overturf).
-        * Stretch goal - open the COPE course
-        * Partnering with the council camping committee early
-        * Partnering with 2027 Wood Badge Course Director (Albert)
-        * Setting a fee that covers program cost
+    * Overcome by
+        * recruiting certified staff through my personal network;
+        * having Timmie already signed up as short-term camp administrator;
+        * having two Level 2 Tower instructors signed up (Timmie & I);
+        * signing up an RSO and a Rifle Instructor (plan to ask Olga and Jen Overturf);
+        * partnering with the council camping committee early;
+        * partnering with 2027 Wood Badge Course Director (Albert);
+        * setting a fee that covers program cost.
     * Plan: https://docs.google.com/presentation/d/1e3IbswjqFbGcwwFYzooMiPDhLgg6L21L25icXYBVM-s/edit?usp=sharing
 
     ### Relevant
@@ -205,7 +205,7 @@ _Bring advanced training opportunities to Scouts and Scouters._
 
     >| | | |
     >| --- | --- | --- |
-    >| **Diversity** | Yes | reaches small and new units that are usually underserved. |
+    >| **Diversity** | Yes | reaches small and new units that are usually underserved |
     >| **Membership growth/retention** | Yes | trained leaders retain youth; new units stabilize. |
     >| **Line of sight to youth** | Yes | youth get a program weekend; their leaders return trained. |
 
@@ -228,16 +228,16 @@ _Bring advanced training opportunities to Scouts and Scouters._
     * Staff of 2 committed
     * Date and venue booked
     * Registration open with 6 seats
-    * Done when registration opens.
+    * Done when registration opens
 
     ### Attainable
     * Roadblocks: qualified staff, boat availability, approval timelines
-    * Overcome by:
-        * Recruiting staff/attendees from IOWLS/Academy contacts (Goal #1)
-        * Booking dates early
+    * Overcome by
+        * recruiting staff/attendees from IOWLS/Academy contacts (Goal #1);
+        * booking dates early.
 
     ### Relevant
-    * Fills the gap between basic and advanced leader training — the core of my vision.
+    * Fills the gap between basic and advanced leader training — the core of my vision
 
     ### Timely
     * Today: confirm whether AOWLS needs national approval beyond council.
