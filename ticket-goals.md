@@ -57,19 +57,18 @@ _Bring advanced training opportunities to Scouts and Scouters._
     >| | |
     >| --- | --- |
     >| What | Complete Level 1 myself, and encourage others to attend with me. |
-    >| Why | Certified instructors make sailing at AYC safer and more credible, and let us teach to a recognized standard. |
-    >| Who | Me, a US Sailing instructor trainer, adults and eligible youth from other area ships. |
+    >| Why | Certified instructors are required by AYC to operate the chase boats, and let us teach to a recognized standard. |
+    >| Who | Me, a US Sailing instructor trainer, adults and eligible scouts and scouters from other area ships. |
     >| Where | Austin Yacht Club or nearest host venue. |
     >| Which | Course fees, prerequisites (verify current US Sailing requirements), and open seats at the course we attend. |
 
     ### **Measurable**
-    * I am certified.
-    * At least 2 adults/youth from other area ships invited to join me at the Level 1 course.
-    * Done when certificates are issued.
+    * I attend US Sailing Level 1 Instructor training.
+    * At least 2 adults/youth from other area ships invited to join me at the Level 1 course..
 
     ### **Attainable**
     * Roadblocks: cost; potentially need to travel.
-        * Overcome by seeking unit/council or yacht club funding.
+        * Overcome by attneding AYC hosted course.
 
     ### **Relevant**
     * Raises the skill level of the adults who teach our youth; supports a sustainable sailing program (Goal #4).
@@ -92,7 +91,7 @@ _Bring advanced training opportunities to Scouts and Scouters._
 
     >| | |
     >| --- | --- |
-    >| What | Sailing every summer week, run by a rotating adult roster and youth leaders. |
+    >| What | Weekly summer sailing, run by a rotating adult roster and youth leaders. |
     >| Why | Regular time on the water builds skills and keeps Scouts engaged; one-person programs burn out. |
     >| Who | Ship 4 youth, 3 rostered adults, youth boatswain/mates, AYC. |
     >| Where | Austin Yacht Club. |
@@ -100,13 +99,13 @@ _Bring advanced training opportunities to Scouts and Scouters._
 
     ### **Measurable**
     * 8–10 sessions in summer 2027.
-    * Roster of 3 qualified adults sharing sessions evenly.
+    * Roster of 3 qualified adults sharing sessions.
     * Written run-book (launch, safety, recovery).
     * Youth leaders run every session; adults provide safety and two-deep coverage.
-    * Done when the summer completes with me leading no more than a third of sessions.
+    * Done when the summer completes, and I'm not running every session.
 
     ### **Attainable**
-    * Roadblocks: adult availability, Texas heat, lake levels, boat maintenance.
+    * Roadblocks: adult availability, Texas heat, lake levels, boat maintenance, weather.
     * Level 1 Sailing Instructor present.
     * Overcome with a shared calendar, early/evening start times, a lake-level backup plan, and a maintenance rotation.
 
@@ -145,15 +144,15 @@ _Bring advanced training opportunities to Scouts and Scouters._
     * Done when certifications are issued.
 
     ### **Attainable**
-    * Roadblocks: cost, finding a weekend, minimum enrollment.
-    * Participants pay their own fee; another unit runs the course as a fundraiser once we recruit enough participants.
+    * Roadblocks: venue, finding a open day, minimum enrollment.
+    * Participants pay their own fee; Crew 4443 runs the course as a fundraiser once we recruit enough participants.
     * Fill seats from other district units.
 
     ### **Relevant**
     * Improves safety for every outing in both units; also supports Goal #4 and Goal #6.
 
     ### **Timely**
-    * Today: trainer already signed up.
+    * Today: trainer (Nate) already signed up.
     * 12 weeks: date set with both unit committees.
     * Course held by summer 2027.
 
@@ -183,7 +182,15 @@ _Bring advanced training opportunities to Scouts and Scouters._
 
     ### **Attainable**
     * Roadblocks: certified program staff, council approval, liability, cost.
-        * Overcome by recruiting certified staff through my personal network, partnering with the council camping committee early, and setting a fee that covers program cost.
+    * Overcome by:
+        * recruiting certified staff through my personal network
+        * Short-Term camp administrator (Timmie) already signed up
+        * Two Level 2 Tower instructors signed up (Timmie & I)
+        * Sign up an RSO and a Rifle Instructor (Plan to ask Olga and Jen Overturf)
+        * Stretch goal - open the COPE course
+        * Partnering with the council camping committee early, 
+        * Partnering with 2027 Wood Badge Course Director (Albert)
+        * Setting a fee that covers program cost.
 
     ### **Relevant**
     * Removes a barrier to adult training in small units — trained leaders deliver better programs.
@@ -191,7 +198,7 @@ _Bring advanced training opportunities to Scouts and Scouters._
     ### **Timely**
     * Today: confirm next Wood Badge course dates and Lost Pines availability.
     * 12 weeks: council approval path and staff recruiting.
-    * 5 months: site booked, staff committed, registration open.
+    * 5 months: camp sites and vernues booked, staff committed, registration open.
     * Camp runs on the second weekend of the 2027 course.
 
     >| | | |
@@ -215,12 +222,17 @@ _Bring advanced training opportunities to Scouts and Scouters._
     >| Which | National syllabus, council approval, vessel and chase-boat availability, YPT and safety requirements. |
 
     ### **Measurable**
-    * Course plan approved by council (and national if required); staff of 2 committed; date and venue booked; registration open with 6 seats.
+    * Course plan approved by council (and national if required)
+    * Staff of 2 committed
+    * Date and venue booked
+    * Registration open with 6 seats.
     * Done when registration opens.
 
     ### **Attainable**
     * Roadblocks: qualified staff, boat availability, approval timelines.
-        * Overcome by recruiting staff/attendees from IOWLS/Academy contacts (Goal #1) and booking dates early.
+    * Overcome by:
+        * recruiting staff/attendees from IOWLS/Academy contacts (Goal #1) 
+        * Booking dates early.
 
     ### **Relevant**
     * Fills the gap between basic and advanced leader training — the core of my vision.
