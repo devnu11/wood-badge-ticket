@@ -6,6 +6,8 @@ Oct 24, 2026 → all goals done by Apr 2028
 
 _Bring advanced training opportunities to Scouts and Scouters._
 
+![Beaver patrol totem](totem.jpg)
+
 
 ## Ticket Goal #1 — Teach IOWLS at Sea Scout Academy
 
