@@ -17,9 +17,9 @@ _Bring advanced training opportunities to Scouts and Scouters._
     >| --- | --- |
     >| What | Teach IOWLS as lead instructor. |
     >| Why | Few local instructors exist; more trained adult leaders make ships run themselves. |
-    >| Who | Me, the Academy course director, co-instructors, adult participants |
+    >| Who | Me, the Sea Scout Academy course director, co-instructors, adult participants |
     >| Where | Sea Scout Academy, Lost Pines Scout Reservation |
-    >| How | Must meet the Academy's instructor requirements and use the current national syllabus |
+    >| How | Meet the Academy's instructor requirements and use the current national syllabus. |
 
     ### Measurable
     * Teach IOWLS course as lead instructor. 
@@ -28,9 +28,11 @@ _Bring advanced training opportunities to Scouts and Scouters._
     * Believe minimum class size is 6
 
     ### Attainable
-    * Seabadge complete and active Skipper 
-    * Roadblocks: date conflicts 
-        * Overcome by contacting the course director by Dec 2026 and volunteering as lead instructor.
+    * Seabadge complete and active Skipper
+    * Shadowed Tom Trefny teaching IOWLS at the 2026 Sea Scout Academy
+    * Roadblocks are
+        * date conflicts.
+    * Overcome by contacting the course director by Dec 2026 and volunteering as lead instructor.
 
     ### Relevant
     * Provides training to new Sea Scout leaders 
@@ -67,14 +69,17 @@ _Bring advanced training opportunities to Scouts and Scouters._
     * At least 2 adults/youth from other area ships invited to join me at the Level 1 course
 
     ### Attainable
-    * Roadblocks: cost; potentially need to travel
-        * Overcome by attending AYC hosted course.
+    * Roadblocks are
+        * cost,
+        * a potential need to travel.
+    * Overcome by attending an AYC-hosted course.
 
     ### Relevant
     * Raises the skill level of the adults who teach our youth; supports a sustainable sailing program (Goal #3)
 
     ### Timely
-    * Today: check US Sailing course calendar and prerequisites; done in 12 weeks.
+    * Today: check US Sailing course calendar
+    * 12 weeks: prerequisites done
     * Course attended with invited area-ship members by summer 2027
 
     >| | | |
@@ -106,8 +111,13 @@ _Bring advanced training opportunities to Scouts and Scouters._
 
     ### Attainable
     * Level 1 Sailing Instructor present
-    * Roadblocks: adult availability, Texas heat, lake levels, boat maintenance, weather
-        * Overcome with a shared calendar, early/evening start times, a lake-level backup plan, and a maintenance rotation.
+    * Roadblocks are
+        * adult availability,
+        * Texas heat,
+        * lake levels,
+        * boat maintenance,
+        * weather.
+    * Overcome with a shared calendar, early/evening start times, a lake-level backup plan, and a maintenance rotation.
 
     ### Relevant
     * Gives youth consistent time on the water
@@ -144,10 +154,15 @@ _Bring advanced training opportunities to Scouts and Scouters._
     * Done when certifications are issued
 
     ### Attainable
-    * Roadblocks: venue, finding an open day, minimum enrollment
+    * Roadblocks are
+        * venue,
+        * finding an open day,
+        * minimum enrollment.
     * Overcome by
         * having participants pay their own fee, so Crew 4443 can run the course as a fundraiser once we recruit enough participants;
-        * filling seats from other district units.
+        * filling seats from other district units;
+        * using the standing scout reservation at Patriots Hall on a Sunday;
+        * requesting Patriots Hall on a Saturday.
 
     ### Relevant
     * Improves safety for every outing in both units; also supports Goal #3 and Goal #5
@@ -183,7 +198,11 @@ _Bring advanced training opportunities to Scouts and Scouters._
     * Stretch goal: open the COPE course
 
     ### Attainable
-    * Roadblocks: certified program staff, council approval, liability, cost
+    * Roadblocks are
+        * certified program staff,
+        * council approval,
+        * liability,
+        * cost.
     * Overcome by
         * recruiting certified staff through my personal network;
         * having Timmie already signed up as short-term camp administrator;
@@ -191,7 +210,8 @@ _Bring advanced training opportunities to Scouts and Scouters._
         * signing up an RSO and a Rifle Instructor (plan to ask Olga and Jen Overturf);
         * partnering with the council camping committee early;
         * partnering with 2027 Wood Badge Course Director (Albert);
-        * setting a fee that covers program cost.
+        * setting a fee that covers program cost;
+        * filing permission with RonS at council for a multi-unit event.
     * Plan: https://docs.google.com/presentation/d/1e3IbswjqFbGcwwFYzooMiPDhLgg6L21L25icXYBVM-s/edit?usp=sharing
 
     ### Relevant
@@ -231,7 +251,10 @@ _Bring advanced training opportunities to Scouts and Scouters._
     * Done when registration opens
 
     ### Attainable
-    * Roadblocks: qualified staff, boat availability, approval timelines
+    * Roadblocks are
+        * qualified staff,
+        * boat availability,
+        * approval timelines.
     * Overcome by
         * recruiting staff/attendees from IOWLS/Academy contacts (Goal #1);
         * booking dates early.
