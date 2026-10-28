@@ -192,6 +192,7 @@ _Bring advanced training opportunities to Scouts and Scouters._
         * Partnering with the council camping committee early
         * Partnering with 2027 Wood Badge Course Director (Albert)
         * Setting a fee that covers program cost
+    * Plan: https://docs.google.com/presentation/d/1e3IbswjqFbGcwwFYzooMiPDhLgg6L21L25icXYBVM-s/edit?usp=sharing
 
     ### Relevant
     * Removes a barrier to adult training in small units — trained leaders deliver better programs.
